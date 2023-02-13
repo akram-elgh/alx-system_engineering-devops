@@ -1,0 +1,2 @@
+#!/bin/bash
+cat -n iacta | grep "3" | cut -c 8-
