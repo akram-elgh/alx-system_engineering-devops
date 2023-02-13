@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l | cut -c 35- | sort -nr | head -10 | cut -c 10-
+ls-tl | cut -c 43- | head -10
