@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -tl | cut -c 43- | head -10
+ls -tl | cut -c 43- | head -10 | tail -9
