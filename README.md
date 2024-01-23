@@ -1,2 +1,2 @@
 # alx-system_engineering-devops
-ALX software engineernig projects
+ALX software engineernig project
